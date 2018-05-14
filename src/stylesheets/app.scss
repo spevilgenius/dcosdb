@@ -1,0 +1,22 @@
+@import "./variables.scss";
+
+.el-header, .el-footer {
+    background-color: $--color-primary;
+    color: #333;
+    text-align: center;
+    line-height: 60px;
+}
+
+.el-aside {
+    background-color: $--color-info;
+    color: #333;
+    text-align: center;
+    line-height: 200px;
+}
+
+.el-main {
+    background-color: $--color-success;
+    color: #333;
+    text-align: center;
+    line-height: 160px;
+}
